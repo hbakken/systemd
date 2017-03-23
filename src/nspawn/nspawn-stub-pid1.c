@@ -25,6 +25,7 @@
 #include "fd-util.h"
 #include "log.h"
 #include "nspawn-stub-pid1.h"
+#include "missing.h"
 #include "process-util.h"
 #include "signal-util.h"
 #include "time-util.h"
